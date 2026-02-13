@@ -33,7 +33,7 @@ A governance-first AI-assisted onboarding reference architecture integrating:
 - Confidence-gated escalation logic
 
 🔗 GitHub Repository:  
-[[(https://github.com/98412senthil-sketch/ai-assisted-client-onboarding)]]
+[Ai-Assisted-Onboarding](https://github.com/98412senthil-sketch/ai-assisted-client-onboarding)
 
 ---
 ## Research & Doctrine

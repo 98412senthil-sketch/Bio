@@ -45,7 +45,7 @@ While studying probabilistic models and decision theory, I began documenting ref
 This space serves as a working lab — where ideas are explored, refined, and structured with the long-term goal of consolidating them into a cohesive body of work.
 
 Explore thinking Space : 
-[(https://98412senthil-sketch.github.io/)]
+[[ Thinking Space ](https://98412senthil-sketch.github.io/)]
 
 
 ### Probabilistic Operating System (POS)
@@ -60,11 +60,11 @@ It focuses on:
 - Escalation and approval governance  
 
 🔗 Explore POS Doctrine:  
-[[Link to your existing POS content folder](https://98412senthil-sketch.github.io/pos-doctrine/)]
+[[ POS Doctrine](https://98412senthil-sketch.github.io/pos-doctrine/)]
 
 ---
 
 ## Connect
 
 - [LinkedIn](www.linkedin.com/in/senthilkumar-subramanian-49238b12)
-- [GitHub]([[your_github_url_here](https://github.com/98412senthil-sketch)]
+- [GitHub](your_github_url_here](https://github.com/98412senthil-sketch)

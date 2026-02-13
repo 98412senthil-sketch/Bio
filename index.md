@@ -61,4 +61,4 @@ A conceptual framework exploring how probabilistic models, human oversight, and 
 ## Connect
 
 - [LinkedIn](www.linkedin.com/in/senthilkumar-subramanian-49238b12)
-- [GitHub]([your_github_url_here](https://github.com/98412senthil-sketch))
+- [GitHub]([[your_github_url_here](https://github.com/98412senthil-sketch)]

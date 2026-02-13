@@ -64,5 +64,5 @@ It focuses on:
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/senthilkumar-subramanian-49238b12)
+- [LinkedIn](https://www.linkedin.com/in/senthilkumar-subramanian-49238b12)
 - [GitHub](https://github.com/98412senthil-sketch)

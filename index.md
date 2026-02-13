@@ -1,5 +1,5 @@
 # Senthilkumar Subramanian
-
+Hive Tech Lead at a global bank, building governance-first AI decision systems.
 ## Enterprise AI Architecture | Governance-First Systems | Banking Technology Leader
 
 ---
@@ -40,9 +40,7 @@ A governance-first AI-assisted onboarding reference architecture integrating:
 
 ###  Thinking Space
 
-While studying probabilistic models and decision theory, I began documenting reflections that connect mathematical reasoning with real-world enterprise systems.
-
-This space serves as a working lab — where ideas are explored, refined, and structured with the long-term goal of consolidating them into a cohesive body of work.
+This space is my working lab for connecting probabilistic models, decision theory, and enterprise system design, with the long-term goal of consolidating these ideas into a cohesive doctrine.
 
 Explore thinking Space : 
 [[ Thinking Space ](https://98412senthil-sketch.github.io/)]
@@ -66,5 +64,5 @@ It focuses on:
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/senthilkumar-subramanian-49238b12)
+- [LinkedIn](senthilkumar-subramanian-49238b12)
 - [GitHub](https://github.com/98412senthil-sketch)

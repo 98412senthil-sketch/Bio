@@ -36,22 +36,28 @@ A governance-first AI-assisted onboarding reference architecture integrating:
 [[(https://github.com/98412senthil-sketch/ai-assisted-client-onboarding)]]
 
 ---
-
 ## Research & Doctrine
 
-### Mythining Space 
+###  Thinking Space
 
-WHile reading books related to Probablablistic models, I tried to relate with physical world and making working documents, to prepare as single book if possible in featire 
+While studying probabilistic models and decision theory, I began documenting reflections that connect mathematical reasoning with real-world enterprise systems.
+
+This space serves as a working lab — where ideas are explored, refined, and structured with the long-term goal of consolidating them into a cohesive body of work.
 
 Explore thinking Space : 
 [(https://98412senthil-sketch.github.io/)]
 
-🔗 Explore POS Doctrine:  
-[[Link to your existing POS content folder](https://98412senthil-sketch.github.io/pos-doctrine/)]
 
 ### Probabilistic Operating System (POS)
 
-A conceptual framework exploring how probabilistic models, human oversight, and decision governance coexist in regulated systems.
+The Probabilistic Operating System (POS) is a conceptual framework exploring how probabilistic models, human oversight, and governance structures can coexist in regulated environments.
+
+It focuses on:
+
+- Deterministic control layers  
+- Probabilistic reasoning components  
+- Human-in-the-loop accountability  
+- Escalation and approval governance  
 
 🔗 Explore POS Doctrine:  
 [[Link to your existing POS content folder](https://98412senthil-sketch.github.io/pos-doctrine/)]
